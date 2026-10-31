@@ -1,15 +1,14 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.2.0",
+  "version": "7.3.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "e919030825a3a723791fb87e69334ad4078bfe97b36cb1dfdafe43a0add9aad0",
-    "bytes": 1584864,
+    "sha256": "1a094f0608b1d33c6488e179862d66810f5f92e3d017e54caef2720def8176d2",
+    "bytes": 1850106,
     "notas": [
-      "Mejoras de estructuras hasta nivel 5 y módulos (misiles, torretas ligeras, campo de fuerza)",
-      "Nexo de mando y laboratorio con árbol de investigación",
-      "Sanadores en todas las facciones, proyectores de escudo colocables y veteranía hasta nivel 10",
-      "Terreno destructible permanente y 4 mapas masivos nuevos: tierra, aire, naval y combinado"
+      "Modo Guerra galáctica: diez galaxias, flotas colosales, estaciones y saltos gravitacionales",
+      "Batallas en tierra al bajar a un planeta, sin pantallas de carga",
+      "Interfaz futurista"
     ],
     "fecha": "2026-10-31"
   }
