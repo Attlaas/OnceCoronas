@@ -1,19 +1,15 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.1.0",
+  "version": "7.2.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "f8c76ea0cd23169ef1e714e736773f07be1f7a5286de37fc6536940b73e96366",
-    "bytes": 1521817,
+    "sha256": "e919030825a3a723791fb87e69334ad4078bfe97b36cb1dfdafe43a0add9aad0",
+    "bytes": 1584864,
     "notas": [
-      "IA nueva con 4 dificultades por rival",
-      "Sonido y música nuevos",
-      "Progenie Parásita rehecha como xenomorfos",
-      "Menú futurista animado",
-      "Láseres del color del jugador, partículas y explosiones nuevas",
-      "Tregua inicial y velocidad Pausada",
-      "Doble clic para seleccionar por tipo",
-      "Detección de la RTX con calidad Épica"
+      "Mejoras de estructuras hasta nivel 5 y módulos (misiles, torretas ligeras, campo de fuerza)",
+      "Nexo de mando y laboratorio con árbol de investigación",
+      "Sanadores en todas las facciones, proyectores de escudo colocables y veteranía hasta nivel 10",
+      "Terreno destructible permanente y 4 mapas masivos nuevos: tierra, aire, naval y combinado"
     ],
     "fecha": "2026-10-31"
   }
