@@ -1,15 +1,16 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.3.0",
+  "version": "7.4.1",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "1a094f0608b1d33c6488e179862d66810f5f92e3d017e54caef2720def8176d2",
-    "bytes": 1850106,
+    "sha256": "42ef4578b288f5bf1bc384e29a7fcdd25f3e619d33b89acdb8c9f26d1cb08806",
+    "bytes": 1993472,
     "notas": [
-      "Modo Guerra galáctica: diez galaxias, flotas colosales, estaciones y saltos gravitacionales",
-      "Batallas en tierra al bajar a un planeta, sin pantallas de carga",
-      "Interfaz futurista"
+      "Equilibrio de facciones: el bombardeo orbital de la Legión hace menos daño y tiene menos radio",
+      "Ajustes de la Colmena, la Guardia Boreal, la Legión, la Progenie, los Abisales y los Clanes",
+      "Arreglado un fallo de la IA de la Progenie",
+      "Incluye toda la guerra galáctica 2.0 de la 7.4.0"
     ],
-    "fecha": "2026-10-31"
+    "fecha": "2026-11-01"
   }
 }
