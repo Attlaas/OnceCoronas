@@ -1,16 +1,13 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.5.0",
+  "version": "7.5.1",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "b48e403dc8e877617cd4a459b097399eba4760468bd013641e29ab73b01db99c",
-    "bytes": 2080677,
+    "sha256": "3e5b198789e4c96e9c381771861d574452dd28b704e73bccb1c04feb4aebdfd7",
+    "bytes": 2085581,
     "notas": [
-      "Motor gráfico definitivo para RTX: preajuste Definitiva con 4K interno, sombras de contacto PCSS, luz volumétrica, adaptación ocular y óptica de cámara",
-      "Colocación libre de estructuras y bases donde quieras",
-      "La Progenie empieza escondida en el planeta natal de un enemigo, extiende biomasa con tumores y salta a otros mundos con esporas; gana si infecta todos los planetas",
-      "Ciudades que crecen solas en los planetas colonizados, con comercio automático, y que quedan en ruinas si se abandonan o se destruyen",
-      "Árboles, matorrales, torres y roca rehechos"
+      "Botón «Reportar fallo» en el menú principal y en la pausa: abre un formulario con los datos técnicos ya rellenados para que nos cuentes qué falla o qué mejorarías",
+      "Primera versión pública de la beta en itch.io"
     ],
     "fecha": "2026-11-01"
   }

@@ -1,0 +1,38 @@
+# Sube Once Coronas a itch.io cada vez que se publica una versión nueva en main.
+# Necesita en Settings > Secrets and variables > Actions:
+#   - secreto BUTLER_API_KEY  (itch.io > Settings > API keys > Generate new API key)
+#   - variable ITCH_GAME      (por ejemplo: tuusuario/oncecoronas)
+name: Publicar en itch.io
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'actualizaciones/manifiesto.json'
+  workflow_dispatch:
+
+jobs:
+  itch:
+    runs-on: ubuntu-latest
+    if: ${{ vars.ITCH_GAME != '' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Leer versión
+        id: v
+        run: echo "version=$(jq -r .version actualizaciones/manifiesto.json)" >> "$GITHUB_OUTPUT"
+
+      - name: Instalar butler
+        run: |
+          curl -sSL -o butler.zip https://broth.itch.zone/butler/linux-amd64/LATEST/archive/default
+          unzip -q butler.zip -d butler && chmod +x butler/butler
+          ./butler/butler -V
+
+      - name: Subir Windows y navegador
+        env:
+          BUTLER_API_KEY: ${{ secrets.BUTLER_API_KEY }}
+        run: |
+          set -e
+          V="${{ steps.v.outputs.version }}"
+          ./butler/butler push descargas/OnceCoronas-Windows.zip   "${{ vars.ITCH_GAME }}:windows" --userversion "$V"
+          ./butler/butler push descargas/OnceCoronas-navegador.zip "${{ vars.ITCH_GAME }}:html5"   --userversion "$V"
