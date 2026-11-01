@@ -3,8 +3,8 @@
   "version": "7.4.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "c5810eda7c3f09e7f67d0b168196ba5b293d69145e909a053e3c12b55d96179b",
-    "bytes": 1992779,
+    "sha256": "adff4e8a84e39689c4285b0a4d84eda001dbceec40de55442eed92917db2000f",
+    "bytes": 1992966,
     "notas": [
       "Solo guerra galáctica: cada planeta es un mapa RTS persistente al que se baja acercando la cámara, sin pantallas de carga",
       "Puertos espaciales: embarca tropas, despega, viaja y desembarca en otro planeta",
