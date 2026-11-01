@@ -1,13 +1,18 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.5.1",
+  "version": "7.6.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "3e5b198789e4c96e9c381771861d574452dd28b704e73bccb1c04feb4aebdfd7",
-    "bytes": 2085581,
+    "sha256": "9f32b8a29e2832a2a63f97e36810e44c82fdead010c224e9cc1c3e18f8fde1fb",
+    "bytes": 2101205,
     "notas": [
-      "Botón «Reportar fallo» en el menú principal y en la pausa: abre un formulario con los datos técnicos ya rellenados para que nos cuentes qué falla o qué mejorarías",
-      "Primera versión pública de la beta en itch.io"
+      "Gráficos: corregido el fallo que dibujaba del revés tubos, patas, colas y cables (parecían de plástico); color y luz más naturales, pintura militar más sobria y humo de misiles espeso",
+      "La Progenie Parásita pasa a llamarse Estirpe Nictómida: exoesqueleto negro, húmedo y biomecánico, y biomasa negra y viscosa que se ve avanzar",
+      "Nuevo modo de victoria «último en pie»: último equipo o último jugador (todos contra todos)",
+      "Sucesos galácticos (tormentas iónicas, meteoritos, reliquias precursoras, fiebre mineral) y botín de guerra en tierra",
+      "Escudos mucho más transparentes",
+      "Corregido: el nivel de la base y las mejoras de un planeta se perdían al subir al espacio",
+      "Corregido: tirón de un par de segundos al construir"
     ],
     "fecha": "2026-11-01"
   }
