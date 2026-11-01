@@ -1,18 +1,15 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.4.0",
+  "version": "7.4.1",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "adff4e8a84e39689c4285b0a4d84eda001dbceec40de55442eed92917db2000f",
-    "bytes": 1992966,
+    "sha256": "42ef4578b288f5bf1bc384e29a7fcdd25f3e619d33b89acdb8c9f26d1cb08806",
+    "bytes": 1993472,
     "notas": [
-      "Solo guerra galáctica: cada planeta es un mapa RTS persistente al que se baja acercando la cámara, sin pantallas de carga",
-      "Puertos espaciales: embarca tropas, despega, viaja y desembarca en otro planeta",
-      "Bases, recursos, escudo planetario y baterías se construyen desde la superficie",
-      "Naves coloniales que cargan colonos y fundan una base",
-      "Galaxias mucho más separadas y salto gravitacional a cualquier punto, con intercepción en el vacío",
-      "Daño por subsistemas (motores y armas), estado crítico y retirada automática activable",
-      "Un sonido distinto para cada aviso, facciones únicas, gráficos rehechos y una IA que termina las partidas (victoria por dominio)"
+      "Equilibrio de facciones: el bombardeo orbital de la Legión hace menos daño y tiene menos radio",
+      "Ajustes de la Colmena, la Guardia Boreal, la Legión, la Progenie, los Abisales y los Clanes",
+      "Arreglado un fallo de la IA de la Progenie",
+      "Incluye toda la guerra galáctica 2.0 de la 7.4.0"
     ],
     "fecha": "2026-11-01"
   }
