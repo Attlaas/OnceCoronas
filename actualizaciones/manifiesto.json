@@ -1,15 +1,16 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.4.1",
+  "version": "7.5.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "42ef4578b288f5bf1bc384e29a7fcdd25f3e619d33b89acdb8c9f26d1cb08806",
-    "bytes": 1993472,
+    "sha256": "b48e403dc8e877617cd4a459b097399eba4760468bd013641e29ab73b01db99c",
+    "bytes": 2080677,
     "notas": [
-      "Equilibrio de facciones: el bombardeo orbital de la Legión hace menos daño y tiene menos radio",
-      "Ajustes de la Colmena, la Guardia Boreal, la Legión, la Progenie, los Abisales y los Clanes",
-      "Arreglado un fallo de la IA de la Progenie",
-      "Incluye toda la guerra galáctica 2.0 de la 7.4.0"
+      "Motor gráfico definitivo para RTX: preajuste Definitiva con 4K interno, sombras de contacto PCSS, luz volumétrica, adaptación ocular y óptica de cámara",
+      "Colocación libre de estructuras y bases donde quieras",
+      "La Progenie empieza escondida en el planeta natal de un enemigo, extiende biomasa con tumores y salta a otros mundos con esporas; gana si infecta todos los planetas",
+      "Ciudades que crecen solas en los planetas colonizados, con comercio automático, y que quedan en ruinas si se abandonan o se destruyen",
+      "Árboles, matorrales, torres y roca rehechos"
     ],
     "fecha": "2026-11-01"
   }
