@@ -1,15 +1,19 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.3.0",
+  "version": "7.4.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "1a094f0608b1d33c6488e179862d66810f5f92e3d017e54caef2720def8176d2",
-    "bytes": 1850106,
+    "sha256": "c5810eda7c3f09e7f67d0b168196ba5b293d69145e909a053e3c12b55d96179b",
+    "bytes": 1992779,
     "notas": [
-      "Modo Guerra galáctica: diez galaxias, flotas colosales, estaciones y saltos gravitacionales",
-      "Batallas en tierra al bajar a un planeta, sin pantallas de carga",
-      "Interfaz futurista"
+      "Solo guerra galáctica: cada planeta es un mapa RTS persistente al que se baja acercando la cámara, sin pantallas de carga",
+      "Puertos espaciales: embarca tropas, despega, viaja y desembarca en otro planeta",
+      "Bases, recursos, escudo planetario y baterías se construyen desde la superficie",
+      "Naves coloniales que cargan colonos y fundan una base",
+      "Galaxias mucho más separadas y salto gravitacional a cualquier punto, con intercepción en el vacío",
+      "Daño por subsistemas (motores y armas), estado crítico y retirada automática activable",
+      "Un sonido distinto para cada aviso, facciones únicas, gráficos rehechos y una IA que termina las partidas (victoria por dominio)"
     ],
-    "fecha": "2026-10-31"
+    "fecha": "2026-11-01"
   }
 }
