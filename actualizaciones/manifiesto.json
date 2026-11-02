@@ -1,16 +1,17 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.7.0",
+  "version": "7.8.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "57f26490b0f0ec03f12121e7014b013cc654d45e9870d90ecb097071d7dc8050",
-    "bytes": 2107804,
+    "sha256": "06c2ed6a275578255972f56e58191d77cdbb8acd9ccb326e326aa964c82f7920",
+    "bytes": 2112965,
     "notas": [
-      "La biomasa de la Estirpe ya no tiene límite: repta poco a poco por todo el planeta",
-      "Cuantas más estructuras tenga la Estirpe en un planeta, y más mejoradas, más rápido lo infesta",
-      "En la biomasa brotan huevos que eclosionan y sueltan un nictómido corredor",
-      "Los nictómidos mudan de forma con la veteranía: larva, corredor, pretoriano, embestidor y gran devorador"
+      "Revisión completa: corregido el fondo del menú que se quedaba colgado con la Estirpe Nictómida",
+      "Las texturas de cada planeta ya no se quedan ocupando memoria de la gráfica al volver a la órbita",
+      "Sin el tirón de cada segundo en partidas avanzadas y galaxia un 30 % más rápida con flotas grandes",
+      "En «último en pie» la IA se vuelve más agresiva con el tiempo: la guerra siempre acaba",
+      "Reloj de campaña en la superficie, menú bien a 720p y otros arreglos de interfaz"
     ],
-    "fecha": "2026-11-01"
+    "fecha": "2026-11-02"
   }
 }
