@@ -1,18 +1,15 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.6.0",
+  "version": "7.7.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "9f32b8a29e2832a2a63f97e36810e44c82fdead010c224e9cc1c3e18f8fde1fb",
-    "bytes": 2101205,
+    "sha256": "57f26490b0f0ec03f12121e7014b013cc654d45e9870d90ecb097071d7dc8050",
+    "bytes": 2107804,
     "notas": [
-      "Gráficos: corregido el fallo que dibujaba del revés tubos, patas, colas y cables (parecían de plástico); color y luz más naturales, pintura militar más sobria y humo de misiles espeso",
-      "La Progenie Parásita pasa a llamarse Estirpe Nictómida: exoesqueleto negro, húmedo y biomecánico, y biomasa negra y viscosa que se ve avanzar",
-      "Nuevo modo de victoria «último en pie»: último equipo o último jugador (todos contra todos)",
-      "Sucesos galácticos (tormentas iónicas, meteoritos, reliquias precursoras, fiebre mineral) y botín de guerra en tierra",
-      "Escudos mucho más transparentes",
-      "Corregido: el nivel de la base y las mejoras de un planeta se perdían al subir al espacio",
-      "Corregido: tirón de un par de segundos al construir"
+      "La biomasa de la Estirpe ya no tiene límite: repta poco a poco por todo el planeta",
+      "Cuantas más estructuras tenga la Estirpe en un planeta, y más mejoradas, más rápido lo infesta",
+      "En la biomasa brotan huevos que eclosionan y sueltan un nictómido corredor",
+      "Los nictómidos mudan de forma con la veteranía: larva, corredor, pretoriano, embestidor y gran devorador"
     ],
     "fecha": "2026-11-01"
   }
