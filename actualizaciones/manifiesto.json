@@ -1,17 +1,15 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.8.0",
+  "version": "7.9.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "06c2ed6a275578255972f56e58191d77cdbb8acd9ccb326e326aa964c82f7920",
-    "bytes": 2112965,
+    "sha256": "07b8cf55910b7504543d0125beebddbb7d16388dc8f3a0a8edf0e7251374e91f",
+    "bytes": 2120097,
     "notas": [
-      "Revisión completa: corregido el fondo del menú que se quedaba colgado con la Estirpe Nictómida",
-      "Las texturas de cada planeta ya no se quedan ocupando memoria de la gráfica al volver a la órbita",
-      "Sin el tirón de cada segundo en partidas avanzadas y galaxia un 30 % más rápida con flotas grandes",
-      "En «último en pie» la IA se vuelve más agresiva con el tiempo: la guerra siempre acaba",
-      "Reloj de campaña en la superficie, menú bien a 720p y otros arreglos de interfaz"
+      "Nueva guía «Primeros pasos» en tu primera campaña galáctica: siete objetivos que se marcan solos al cumplirlos",
+      "Se puede plegar, saltar y repetir desde la pantalla de Guerra galáctica",
+      "Corregido un error de la Estirpe Nictómida al añadir módulos a sus edificios"
     ],
-    "fecha": "2026-11-02"
+    "fecha": "2026-11-03"
   }
 }
