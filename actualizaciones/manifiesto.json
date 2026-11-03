@@ -1,13 +1,13 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.9.0",
+  "version": "7.10.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "07b8cf55910b7504543d0125beebddbb7d16388dc8f3a0a8edf0e7251374e91f",
-    "bytes": 2120097,
+    "sha256": "cd984fda3f3e03ab63946190394b96ac0cb0c7dd5cf1845b82c317c9ae7726d7",
+    "bytes": 2125197,
     "notas": [
-      "Nueva guía «Primeros pasos» en tu primera campaña galáctica: siete objetivos que se marcan solos al cumplirlos",
-      "Se puede plegar, saltar y repetir desde la pantalla de Guerra galáctica",
+      "Tres sucesos galácticos nuevos: llamarada estelar, pecio a la deriva que puedes reclamar y oleadas de refugiados",
+      "Nueva guía «Primeros pasos» en tu primera campaña galáctica (se puede plegar, saltar y repetir)",
       "Corregido un error de la Estirpe Nictómida al añadir módulos a sus edificios"
     ],
     "fecha": "2026-11-03"
