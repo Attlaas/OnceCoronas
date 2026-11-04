@@ -1,15 +1,16 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.11.0",
+  "version": "7.12.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "5cb51db001a520ed5e740116496c7023a33f9452e15c48e1f3de2fb75b27f0df",
-    "bytes": 2129635,
+    "sha256": "42edd1e697ac484611d31b38f223982086722aefa7e0268741439cdc722ee3ec",
+    "bytes": 2134422,
     "notas": [
-      "Crónica de la guerra: al acabar la campaña, gráfica de planetas y naves de cada imperio",
-      "Tres sucesos galácticos nuevos: llamarada estelar, pecio a la deriva y oleadas de refugiados",
+      "12 logros en la guerra galáctica, con aviso al desbloquearlos y botón «Logros» en la pantalla de campaña",
+      "Crónica de la guerra: gráfica de planetas y naves al acabar la campaña",
+      "Sucesos galácticos nuevos: llamarada estelar, pecio a la deriva y oleadas de refugiados",
       "Guía «Primeros pasos» en tu primera campaña galáctica",
-      "Arreglos: la interfaz ya no tapa la pantalla final; error de la Estirpe Nictómida con módulos"
+      "Varios arreglos (Estirpe Nictómida con módulos, pantalla final tapada, avisos al salir de la campaña)"
     ],
     "fecha": "2026-11-04"
   }
