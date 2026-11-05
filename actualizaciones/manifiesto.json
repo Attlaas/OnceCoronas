@@ -1,17 +1,18 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.8.0",
+  "version": "7.14.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "06c2ed6a275578255972f56e58191d77cdbb8acd9ccb326e326aa964c82f7920",
-    "bytes": 2112965,
+    "sha256": "d3d72d0e447bf4f636dcaec97424ef837a1a5e85b0e3adf1c17dd3a8f93d9b54",
+    "bytes": 2141057,
     "notas": [
-      "Revisión completa: corregido el fondo del menú que se quedaba colgado con la Estirpe Nictómida",
-      "Las texturas de cada planeta ya no se quedan ocupando memoria de la gráfica al volver a la órbita",
-      "Sin el tirón de cada segundo en partidas avanzadas y galaxia un 30 % más rápida con flotas grandes",
-      "En «último en pie» la IA se vuelve más agresiva con el tiempo: la guerra siempre acaba",
-      "Reloj de campaña en la superficie, menú bien a 720p y otros arreglos de interfaz"
+      "Restos en llamas al estallar naves grandes y estaciones",
+      "Contratos del Alto Mando: objetivos secundarios con tiempo límite que dan créditos (Expansión, Cacería, Movilización)",
+      "Nuevo logro «Contratista» (13 logros)",
+      "12 logros en la guerra galáctica, con aviso al desbloquearlos y botón «Logros» en la pantalla de campaña",
+      "Crónica de la guerra: gráfica de planetas y naves al acabar la campaña",
+      "Sucesos galácticos nuevos: llamarada estelar, pecio a la deriva y oleadas de refugiados"
     ],
-    "fecha": "2026-11-02"
+    "fecha": "2026-11-05"
   }
 }
