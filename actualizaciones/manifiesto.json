@@ -1,17 +1,17 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.14.0",
+  "version": "7.16.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "d3d72d0e447bf4f636dcaec97424ef837a1a5e85b0e3adf1c17dd3a8f93d9b54",
-    "bytes": 2141057,
+    "sha256": "f0a00d7fe2a42306fb0da5a8b38fa50b99fb1ffec277372e226427e3e5826fa6",
+    "bytes": 2148299,
     "notas": [
+      "Saltos hiperespaciales con haces de luz",
+      "Cascos de las naves con más detalle",
+      "Naves insignia: una por imperio, con un aura propia de cada facción",
       "Restos en llamas al estallar naves grandes y estaciones",
       "Contratos del Alto Mando: objetivos secundarios con tiempo límite que dan créditos (Expansión, Cacería, Movilización)",
-      "Nuevo logro «Contratista» (13 logros)",
-      "12 logros en la guerra galáctica, con aviso al desbloquearlos y botón «Logros» en la pantalla de campaña",
-      "Crónica de la guerra: gráfica de planetas y naves al acabar la campaña",
-      "Sucesos galácticos nuevos: llamarada estelar, pecio a la deriva y oleadas de refugiados"
+      "Nuevo logro «Contratista» (13 logros)"
     ],
     "fecha": "2026-11-05"
   }
