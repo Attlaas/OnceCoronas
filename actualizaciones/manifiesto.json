@@ -1,18 +1,18 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.16.0",
+  "version": "7.17.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "f0a00d7fe2a42306fb0da5a8b38fa50b99fb1ffec277372e226427e3e5826fa6",
-    "bytes": 2148299,
+    "sha256": "47937b8e6d7d403f36cf2890782c98864b1f57329f2fc801354d53c4a6dda598",
+    "bytes": 2152107,
     "notas": [
+      "Tráfico orbital: lanzaderas con estela de luz en los planetas habitados",
+      "Cascos de las naves con más detalle (placas, antenas, sensores, luces)",
       "Saltos hiperespaciales con haces de luz",
-      "Cascos de las naves con más detalle",
       "Naves insignia: una por imperio, con un aura propia de cada facción",
       "Restos en llamas al estallar naves grandes y estaciones",
-      "Contratos del Alto Mando: objetivos secundarios con tiempo límite que dan créditos (Expansión, Cacería, Movilización)",
-      "Nuevo logro «Contratista» (13 logros)"
+      "Contratos del Alto Mando: objetivos secundarios con tiempo límite que dan créditos (Expansión, Cacería, Movilización)"
     ],
-    "fecha": "2026-11-05"
+    "fecha": "2026-11-06"
   }
 }
