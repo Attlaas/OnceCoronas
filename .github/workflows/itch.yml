@@ -1,7 +1,7 @@
 # Sube Once Coronas a itch.io cada vez que se publica una versión nueva en main.
 # Necesita en Settings > Secrets and variables > Actions:
 #   - secreto BUTLER_API_KEY  (itch.io > Settings > API keys > Generate new API key)
-#   - variable ITCH_GAME      (por ejemplo: tuusuario/oncecoronas)
+#   - variable ITCH_GAME      (opcional; por defecto atlas0098/once-coronas)
 name: Publicar en itch.io
 
 on:
@@ -14,25 +14,32 @@ on:
 jobs:
   itch:
     runs-on: ubuntu-latest
-    if: ${{ vars.ITCH_GAME != '' }}
+    env:
+      ITCH_GAME: ${{ vars.ITCH_GAME || 'atlas0098/once-coronas' }}
+      BUTLER_API_KEY: ${{ secrets.BUTLER_API_KEY }}
     steps:
       - uses: actions/checkout@v4
+
+      - name: Comprobar la clave de butler
+        id: k
+        run: |
+          if [ -z "$BUTLER_API_KEY" ]; then echo "Falta el secreto BUTLER_API_KEY: no se sube nada."; echo "ok=no" >> "$GITHUB_OUTPUT"; else echo "ok=si" >> "$GITHUB_OUTPUT"; fi
 
       - name: Leer versión
         id: v
         run: echo "version=$(jq -r .version actualizaciones/manifiesto.json)" >> "$GITHUB_OUTPUT"
 
       - name: Instalar butler
+        if: steps.k.outputs.ok == 'si'
         run: |
           curl -sSL -o butler.zip https://broth.itch.zone/butler/linux-amd64/LATEST/archive/default
           unzip -q butler.zip -d butler && chmod +x butler/butler
           ./butler/butler -V
 
       - name: Subir Windows y navegador
-        env:
-          BUTLER_API_KEY: ${{ secrets.BUTLER_API_KEY }}
+        if: steps.k.outputs.ok == 'si'
         run: |
           set -e
           V="${{ steps.v.outputs.version }}"
-          ./butler/butler push descargas/OnceCoronas-Windows.zip   "${{ vars.ITCH_GAME }}:windows" --userversion "$V"
-          ./butler/butler push descargas/OnceCoronas-navegador.zip "${{ vars.ITCH_GAME }}:html5"   --userversion "$V"
+          ./butler/butler push descargas/OnceCoronas-Windows.zip   "$ITCH_GAME:windows" --userversion "$V"
+          ./butler/butler push descargas/OnceCoronas-navegador.zip "$ITCH_GAME:html5"   --userversion "$V"
