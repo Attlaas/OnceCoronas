@@ -1,19 +1,19 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.18.0",
+  "version": "7.19.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "b6e23ad62ce8008ce90125e896aa6a350f122d9c02e59dc1412600a0cc9f2234",
-    "bytes": 2160698,
+    "sha256": "d5935327b906843013def2eba26e88aaa96cbd0f4bb3efcd3fbbe8e05f943abb",
+    "bytes": 2164865,
     "notas": [
+      "Escudos visibles: burbuja hexagonal al recibir impactos y rotura en esquirlas al caer",
       "Sonido del espacio: ambiente galáctico, disparos distintos por arma y saltos hiperespaciales con sonido",
       "La música de batalla crece con los combates espaciales",
       "Estaciones con vida: balizas que parpadean, drones de patrulla y chispas de soldadura en el astillero",
       "Tráfico orbital: lanzaderas con estela de luz en los planetas habitados",
       "Cascos de las naves con más detalle (placas, antenas, sensores, luces)",
-      "Saltos hiperespaciales con haces de luz",
-      "Naves insignia: una por imperio, con un aura propia de cada facción"
+      "Saltos hiperespaciales con haces de luz"
     ],
-    "fecha": "2026-11-07"
+    "fecha": "2026-11-08"
   }
 }
