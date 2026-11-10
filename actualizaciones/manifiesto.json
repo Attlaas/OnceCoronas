@@ -1,19 +1,19 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.20.0",
+  "version": "7.21.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "fee04bc7281d219be0b57964b254ed0cdf7f66e801cb551022dbc113c938767e",
-    "bytes": 2168939,
+    "sha256": "14eda6586be42d812d068e59d7baa2b81fc42ff3c9aa5e2755a85e2ec6b633e4",
+    "bytes": 2171788,
     "notas": [
+      "Cometas con cola de iones y cola de polvo en muchos sistemas",
       "Alertas de combate: los sistemas en guerra laten en el minimapa y un clic te lleva a la batalla",
       "Escudos visibles: burbuja hexagonal al recibir impactos y rotura en esquirlas al caer",
       "Sonido del espacio: ambiente galáctico, disparos distintos por arma y saltos hiperespaciales con sonido",
       "La música de batalla crece con los combates espaciales",
       "Estaciones con vida: balizas que parpadean, drones de patrulla y chispas de soldadura en el astillero",
-      "Tráfico orbital: lanzaderas con estela de luz en los planetas habitados",
-      "Cascos de las naves con más detalle (placas, antenas, sensores, luces)"
+      "Tráfico orbital: lanzaderas con estela de luz en los planetas habitados"
     ],
-    "fecha": "2026-11-09"
+    "fecha": "2026-11-10"
   }
 }
