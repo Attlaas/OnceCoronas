@@ -1,18 +1,18 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.21.0",
+  "version": "7.22.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "14eda6586be42d812d068e59d7baa2b81fc42ff3c9aa5e2755a85e2ec6b633e4",
-    "bytes": 2171788,
+    "sha256": "149537e31767f33aa82f1764281f6df61a344cf3e82d676becc37f18809d2c16",
+    "bytes": 2244137,
     "notas": [
-      "Cometas con cola de iones y cola de polvo en muchos sistemas",
-      "Alertas de combate: los sistemas en guerra laten en el minimapa y un clic te lleva a la batalla",
-      "Escudos visibles: burbuja hexagonal al recibir impactos y rotura en esquirlas al caer",
-      "Sonido del espacio: ambiente galáctico, disparos distintos por arma y saltos hiperespaciales con sonido",
-      "La música de batalla crece con los combates espaciales",
-      "Estaciones con vida: balizas que parpadean, drones de patrulla y chispas de soldadura en el astillero",
-      "Tráfico orbital: lanzaderas con estela de luz en los planetas habitados"
+      "Estructuras nuevas: cada edificio tiene su silueta y cada facción construye a su manera",
+      "Casas: generan civiles que levantan la ciudad y fundan pueblos por todo el planeta",
+      "Ciudades con la arquitectura de cada facción, visibles desde la órbita",
+      "Movimiento natural con aceleración, giro e inercia",
+      "Luz natural y carreteras de asfalto nítidas",
+      "Seis biomas y cuatro tipos de estrella nuevos",
+      "Logo nuevo y panel de Novedades con lo que trae cada versión"
     ],
     "fecha": "2026-11-10"
   }
