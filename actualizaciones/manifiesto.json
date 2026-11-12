@@ -1,19 +1,15 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.22.0",
+  "version": "7.23.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "149537e31767f33aa82f1764281f6df61a344cf3e82d676becc37f18809d2c16",
-    "bytes": 2244137,
+    "sha256": "47f3caefdbec9f3fdf4557bc908230d91f9eb573a078c9439b908c8ee91a6b95",
+    "bytes": 2255166,
     "notas": [
-      "Estructuras nuevas: cada edificio tiene su silueta y cada facción construye a su manera",
-      "Casas: generan civiles que levantan la ciudad y fundan pueblos por todo el planeta",
-      "Ciudades con la arquitectura de cada facción, visibles desde la órbita",
-      "Movimiento natural con aceleración, giro e inercia",
-      "Luz natural y carreteras de asfalto nítidas",
-      "Seis biomas y cuatro tipos de estrella nuevos",
-      "Logo nuevo y panel de Novedades con lo que trae cada versión"
+      "Sonido propio para los seis biomas nuevos: cigarras, oleaje y gaviotas, viento, crujidos de sal, gotas",
+      "Vista galáctica jugable con el dedo en móvil y tableta: arrastrar, pellizcar, tocar y mantener pulsado",
+      "Botón «Caja» para seleccionar naves con un recuadro en pantallas táctiles"
     ],
-    "fecha": "2026-11-10"
+    "fecha": "2026-11-12"
   }
 }
