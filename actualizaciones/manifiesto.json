@@ -1,15 +1,15 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.23.0",
+  "version": "7.24.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "47f3caefdbec9f3fdf4557bc908230d91f9eb573a078c9439b908c8ee91a6b95",
-    "bytes": 2255166,
+    "sha256": "a8afd256bd0ca90eef8fe6a835394ca893b6962fe03318e97faae83358c13033",
+    "bytes": 2260997,
     "notas": [
-      "Sonido propio para los seis biomas nuevos: cigarras, oleaje y gaviotas, viento, crujidos de sal, gotas",
-      "Vista galáctica jugable con el dedo en móvil y tableta: arrastrar, pellizcar, tocar y mantener pulsado",
-      "Botón «Caja» para seleccionar naves con un recuadro en pantallas táctiles"
+      "Interfaz adaptada al móvil en horizontal y en vertical",
+      "Galaxia en el móvil: barra compacta y botón de Menú siempre visible",
+      "Batallas en tierra en el móvil: paneles más pequeños y botones táctiles siempre visibles"
     ],
-    "fecha": "2026-11-12"
+    "fecha": "2026-11-13"
   }
 }
