@@ -1,15 +1,13 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.24.0",
+  "version": "7.25.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "a8afd256bd0ca90eef8fe6a835394ca893b6962fe03318e97faae83358c13033",
-    "bytes": 2260997,
+    "sha256": "66a79dd762e34a9c78d16089730947033c2e1c5cbb353b385d13453fd92129e0",
+    "bytes": 2264479,
     "notas": [
-      "Interfaz adaptada al móvil en horizontal y en vertical",
-      "Galaxia en el móvil: barra compacta y botón de Menú siempre visible",
-      "Batallas en tierra en el móvil: paneles más pequeños y botones táctiles siempre visibles"
+      "Ventanas iluminadas en los anillos de las estaciones, que giran con ellos y parpadean de vez en cuando"
     ],
-    "fecha": "2026-11-13"
+    "fecha": "2026-11-14"
   }
 }
