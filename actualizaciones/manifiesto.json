@@ -1,13 +1,13 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.25.0",
+  "version": "7.26.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "66a79dd762e34a9c78d16089730947033c2e1c5cbb353b385d13453fd92129e0",
-    "bytes": 2264479,
+    "sha256": "01adb33ac6dd1a02781065f10f7dab57083c86757562a808b716e2b2b9c6fdcd",
+    "bytes": 2268461,
     "notas": [
-      "Ventanas iluminadas en los anillos de las estaciones, que giran con ellos y parpadean de vez en cuando"
+      "Retrato 3D de la nave seleccionada en el panel de la galaxia"
     ],
-    "fecha": "2026-11-14"
+    "fecha": "2026-11-15"
   }
 }
