@@ -1,13 +1,11 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.26.0",
+  "version": "7.27.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "01adb33ac6dd1a02781065f10f7dab57083c86757562a808b716e2b2b9c6fdcd",
-    "bytes": 2268461,
-    "notas": [
-      "Retrato 3D de la nave seleccionada en el panel de la galaxia"
-    ],
-    "fecha": "2026-11-15"
+    "sha256": "16116f1f7e47adbec8b96441241e60d2d8d11b43676d11d5ebccfa951736afdd",
+    "bytes": 2272595,
+    "notas": "La ciudad suena: murmullo de la gente cerca de los civiles y golpes de herramientas y soldadura junto a las obras.",
+    "fecha": "2026-11-16"
   }
 }
