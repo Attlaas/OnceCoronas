@@ -1,11 +1,11 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.27.0",
+  "version": "7.28.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "16116f1f7e47adbec8b96441241e60d2d8d11b43676d11d5ebccfa951736afdd",
-    "bytes": 2272595,
-    "notas": "La ciudad suena: murmullo de la gente cerca de los civiles y golpes de herramientas y soldadura junto a las obras.",
-    "fecha": "2026-11-16"
+    "sha256": "f70decac219357a276916704a5b9f2d3a977038a7371c512aa7a6da833327a64",
+    "bytes": 2277002,
+    "notas": "Cada facción tiene su voz: firma sonora propia al seleccionar y dar órdenes.",
+    "fecha": "2026-11-17"
   }
 }
