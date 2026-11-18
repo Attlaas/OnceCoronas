@@ -1,11 +1,11 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.28.0",
+  "version": "7.29.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "f70decac219357a276916704a5b9f2d3a977038a7371c512aa7a6da833327a64",
-    "bytes": 2277002,
-    "notas": "Cada facción tiene su voz: firma sonora propia al seleccionar y dar órdenes.",
-    "fecha": "2026-11-17"
+    "sha256": "05a25d68ecef38f7d22fa374759f4279b9230f1023e7980d84807b01df9c6c8d",
+    "bytes": 2280450,
+    "notas": "Tráfico en la ciudad: aerodeslizadores civiles circulan por las calles de tus planetas.",
+    "fecha": "2026-11-18"
   }
 }
