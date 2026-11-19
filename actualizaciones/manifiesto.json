@@ -1,11 +1,11 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.29.0",
+  "version": "7.30.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "05a25d68ecef38f7d22fa374759f4279b9230f1023e7980d84807b01df9c6c8d",
-    "bytes": 2280450,
-    "notas": "Tráfico en la ciudad: aerodeslizadores civiles circulan por las calles de tus planetas.",
-    "fecha": "2026-11-18"
+    "sha256": "e4918fe7022d0915c1656f59946004eb78781624f3c19a8dc3ea2083b72807f0",
+    "bytes": 2287273,
+    "notas": "Llega el temporal: lluvia, nieve, tormentas de arena, ceniza y esporas en la superficie de los planetas.",
+    "fecha": "2026-11-19"
   }
 }
