@@ -1,11 +1,11 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.30.0",
+  "version": "7.31.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "e4918fe7022d0915c1656f59946004eb78781624f3c19a8dc3ea2083b72807f0",
-    "bytes": 2287273,
-    "notas": "Llega el temporal: lluvia, nieve, tormentas de arena, ceniza y esporas en la superficie de los planetas.",
-    "fecha": "2026-11-19"
+    "sha256": "1b2a156fd98c7e912a6be0c7fb178cddceb6f76a76fade5d5bdab89ad4fd40cb",
+    "bytes": 2291961,
+    "notas": "Tormenta eléctrica: rayos, fogonazos y truenos cuando llueve fuerte.",
+    "fecha": "2026-11-20"
   }
 }
