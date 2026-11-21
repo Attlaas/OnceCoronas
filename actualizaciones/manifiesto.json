@@ -1,11 +1,11 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.31.0",
+  "version": "7.32.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "1b2a156fd98c7e912a6be0c7fb178cddceb6f76a76fade5d5bdab89ad4fd40cb",
-    "bytes": 2291961,
-    "notas": "Tormenta eléctrica: rayos, fogonazos y truenos cuando llueve fuerte.",
-    "fecha": "2026-11-20"
+    "sha256": "d30449588535099b61bc0df46c8d8896a9b990672fe0134da4a33859b2e80a35",
+    "bytes": 2294889,
+    "notas": "Suelo mojado: el terreno brilla con la lluvia y se seca al escampar; salpicaduras de las gotas.",
+    "fecha": "2026-11-21"
   }
 }
