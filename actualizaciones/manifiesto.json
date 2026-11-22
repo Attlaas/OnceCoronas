@@ -1,11 +1,13 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.32.0",
+  "version": "7.33.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "d30449588535099b61bc0df46c8d8896a9b990672fe0134da4a33859b2e80a35",
-    "bytes": 2294889,
+    "sha256": "6d12ebe7d42419b46cd46378275cac460a041eebb185ead8dbaea27884b0424e",
+    "bytes": 2298086,
     "notas": "Suelo mojado: el terreno brilla con la lluvia y se seca al escampar; salpicaduras de las gotas.",
     "fecha": "2026-11-21"
-  }
+  },
+  "fecha": "2026-11-22",
+  "notas": "Arcoíris y claros tras la tormenta: cuando la lluvia fuerte amaina, el sol vuelve y aparece un arcoíris sobre el campo de batalla."
 }
