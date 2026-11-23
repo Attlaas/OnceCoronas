@@ -1,11 +1,11 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.33.0",
+  "version": "7.34.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "6d12ebe7d42419b46cd46378275cac460a041eebb185ead8dbaea27884b0424e",
-    "bytes": 2298086,
-    "notas": "Arcoíris y claros tras la tormenta: cuando la lluvia fuerte amaina, el sol vuelve y aparece un arcoíris sobre el campo de batalla.",
-    "fecha": "2026-11-22"
+    "sha256": "e31c4c6e15002342e57fdb5fb337c0c9640d1b2d777ed811b6ea0f840e7432c0",
+    "bytes": 2302387,
+    "notas": "Huellas en la nieve y la arena: la infantería deja pisadas y los vehículos rodadas que se borran con el tiempo.",
+    "fecha": "2026-11-23"
   }
 }
