@@ -1,11 +1,11 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.34.0",
+  "version": "7.35.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "e31c4c6e15002342e57fdb5fb337c0c9640d1b2d777ed811b6ea0f840e7432c0",
-    "bytes": 2302387,
-    "notas": "Huellas en la nieve y la arena: la infantería deja pisadas y los vehículos rodadas que se borran con el tiempo.",
-    "fecha": "2026-11-23"
+    "sha256": "9c2043c3b026a158ed81a2228f3b0d4cb0073c2ef679fed97c6e2d2d5ad78146",
+    "bytes": 2305317,
+    "notas": "Charcos y barro: con la lluvia se forman charcos que reflejan el cielo y las tropas dejan rodadas de barro.",
+    "fecha": "2026-11-24"
   }
 }
