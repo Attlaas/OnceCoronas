@@ -1,11 +1,11 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.35.0",
+  "version": "7.36.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "9c2043c3b026a158ed81a2228f3b0d4cb0073c2ef679fed97c6e2d2d5ad78146",
-    "bytes": 2305317,
-    "notas": "Charcos y barro: con la lluvia se forman charcos que reflejan el cielo y las tropas dejan rodadas de barro.",
-    "fecha": "2026-11-24"
+    "sha256": "5bc1591d441b4dac46f1753530580669eb88fedd860315d8b23878ab62d4d5e5",
+    "bytes": 2309140,
+    "notas": "Niebla en los valles: de vez en cuando una neblina baja cubre las zonas hondas del terreno y se disipa al rato.",
+    "fecha": "2026-11-25"
   }
 }
