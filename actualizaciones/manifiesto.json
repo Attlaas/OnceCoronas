@@ -1,11 +1,11 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.36.0",
+  "version": "7.37.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "5bc1591d441b4dac46f1753530580669eb88fedd860315d8b23878ab62d4d5e5",
-    "bytes": 2309140,
-    "notas": "Niebla en los valles: de vez en cuando una neblina baja cubre las zonas hondas del terreno y se disipa al rato.",
-    "fecha": "2026-11-25"
+    "sha256": "18a8e7fea854702b30a3718fc7a98c4f5b3675296b7228df39e158de71ae78c5",
+    "bytes": 2313098,
+    "notas": "Bandadas de aves: planean sobre los mapas con vida, se asustan con las explosiones y se refugian de la lluvia.",
+    "fecha": "2026-11-26"
   }
 }
