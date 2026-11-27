@@ -1,11 +1,11 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.37.0",
+  "version": "7.38.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "18a8e7fea854702b30a3718fc7a98c4f5b3675296b7228df39e158de71ae78c5",
-    "bytes": 2313098,
-    "notas": "Bandadas de aves: planean sobre los mapas con vida, se asustan con las explosiones y se refugian de la lluvia.",
-    "fecha": "2026-11-26"
+    "sha256": "081ae87fadde1e116db61417556b77aedb78beb5a67039848eb5acd3ee905b08",
+    "bytes": 2317497,
+    "notas": "Suena la naturaleza: viento entre las hojas, trinos de las bandadas y gaviotas en el archipiélago.",
+    "fecha": "2026-11-27"
   }
 }
