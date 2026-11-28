@@ -1,11 +1,11 @@
 {
   "applicationId": "es.oncecoronas.juego",
-  "version": "7.38.0",
+  "version": "7.39.0",
   "resourcesURL": "https://raw.githubusercontent.com/Attlaas/OnceCoronas/main/actualizaciones/resources.neu",
   "data": {
-    "sha256": "081ae87fadde1e116db61417556b77aedb78beb5a67039848eb5acd3ee905b08",
-    "bytes": 2317497,
-    "notas": "Suena la naturaleza: viento entre las hojas, trinos de las bandadas y gaviotas en el archipiélago.",
-    "fecha": "2026-11-27"
+    "sha256": "82a90391369a2d664c4155f24200a0c52ec852b5da12040dafd2fe81c67d254f",
+    "bytes": 2321487,
+    "notas": "Faros en el temporal: con lluvia o niebla los coches de la ciudad encienden los faros, que brillan más sobre el suelo mojado.",
+    "fecha": "2026-11-28"
   }
 }
